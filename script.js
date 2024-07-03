@@ -1,0 +1,1 @@
+window.location.href = "https://weatherquick.netlify.app/"
